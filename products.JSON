@@ -1,0 +1,65 @@
+[
+	{
+		"id":1,
+		"name":"RED EDITION",
+		"price":2000,
+		"image":"assets/1.png"
+
+	},
+	{
+		"id":2,
+		"name":"YELLOW EDITION",
+		"price":2900,
+		"image":"assets/2.png"
+
+	},
+	{
+		"id":3,
+		"name":"BROWN EDITION",
+		"price":2000,
+		"image":"assets/3.png"
+
+	},	
+	{
+		"id":4,
+		"name":"BLUE EDITION",
+		"price":2000,
+		"image":"assets/4.png"
+
+	},
+	{
+		"id":5,
+		"name":"ORIGIN EDITION",
+		"price":2800,
+		"image":"assets/5.png"
+
+	},
+	{
+		"id":6,
+		"name":"GREY EDITION",
+		"price":2000,
+		"image":"assets/6.png"
+
+	},
+	{
+		"id":7,
+		"name":"MAROON EDITION",
+		"price":2500,
+		"image":"assets/7.png"
+
+	},
+	{
+		"id":8,
+		"name":"WHITE EDITION",
+		"price":2000,
+		"image":"assets/8.png"
+
+	},
+	{
+		"id":9,
+		"name":"MILKY EDITION",
+		"price":2000,
+		"image":"assets/9.png"
+
+	}
+]
